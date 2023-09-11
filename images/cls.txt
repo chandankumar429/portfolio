@@ -1,0 +1,6 @@
+selector{
+    property:styling
+}
+p{
+    font-size:12px
+}
